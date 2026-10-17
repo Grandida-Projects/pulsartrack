@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/anomaly-flag-cleared-by-unrelated-resolve",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/anomaly-flag-cleared-by-unrelated-resolve": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/anomaly-flag-cleared-by-unrelated-resolve",
+    "origin"
+  ]
+}
